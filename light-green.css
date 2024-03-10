@@ -1,0 +1,35 @@
+.preloader .loader i,
+.btn-1:hover,
+.people-section .people-item-inner .socail-links a i,
+.event-section .event-item-inner span,
+.story-section .story-item i,
+.story-section .story-text h3,
+.couple-section .socail-links a i,
+.couple-section .couple i.fa-heart,
+.couple-section .couple h3,
+.header .nav ul li a.active,
+body.dark .header.fixed .nav ul li a.active,
+body.dark .header .nav ul li a:hover,
+.header .nav ul li a:hover{
+    color: #0dcebd;
+}
+.btn-1,
+.people-section .people-item-inner .socail-links a i,
+.event-section .event-item-inner::before,
+.couple-section .socail-links a i,
+.couple-section .couple img{
+    border-color: #0dcebd;
+}
+.preloader .loader::before{
+    border-right-color:#0dcebd;
+}
+.setting .s-toggle-btn,
+.btn-1,
+.rsvp-section,
+.people-section .people-item-inner .socail-links a:hover i,
+body.dark .people-section .filter-btn.active,
+.people-section .filter-btn.active,
+.event-section ,
+.couple-section .socail-links a:hover i{
+    background-color: #0dcebd;
+}
